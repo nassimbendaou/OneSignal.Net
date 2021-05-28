@@ -1,7 +1,7 @@
 ![OneSignal Logo](https://onesignal.com/assets/common/logo_onesignal_color.png)
 
 # OneSignal.net
-OneSignal.net is a sync/async .NET 4.6.1+ client for the OneSignal API
+OneSignal.net is a sync/async .NET 4.6.1+ client for the OneSignal API. OneSignal C# SDK to send push notification from C# WebApi.
 
 ## How to use
 
