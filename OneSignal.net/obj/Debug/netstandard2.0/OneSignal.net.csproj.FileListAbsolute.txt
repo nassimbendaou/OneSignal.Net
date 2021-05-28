@@ -1,0 +1,9 @@
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.csprojAssemblyReference.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.csproj.CoreCompileInputs.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.AssemblyInfoInputs.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.AssemblyInfo.cs
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\netstandard2.0\OneSignal.net.deps.json
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\netstandard2.0\OneSignal.net.dll
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\netstandard2.0\OneSignal.net.pdb
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.dll
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\netstandard2.0\OneSignal.net.pdb

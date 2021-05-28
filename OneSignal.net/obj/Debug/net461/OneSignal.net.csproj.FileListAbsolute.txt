@@ -1,0 +1,10 @@
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.csprojAssemblyReference.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.csproj.CoreCompileInputs.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.AssemblyInfoInputs.cache
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.AssemblyInfo.cs
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\net461\OneSignal.net.dll
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\net461\OneSignal.net.pdb
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.csproj.CopyComplete
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.dll
+C:\Users\Nbendaou\source\repos\OneSignal.net\src\OneSignal.net\obj\Debug\net461\OneSignal.net.pdb
